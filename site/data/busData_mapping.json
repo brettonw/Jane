@@ -1,0 +1,27 @@
+{
+    "success": "success",
+    "metadata":{
+        "mapping": {
+            "BusDataRecord": {
+                        "DataArrayLocation" : "data",
+						"Child"				: { "mapFrom" : "child", "type":"O4.ChildReference", "index": true },
+						"ChildOf"			: { "mapFrom" : "child_of", "type":"O4.ParentReference", "index": true },
+						"ID"				: { "mapFrom" : "parent", "type":"O4.AlternateID", "index": true },
+                        "Stop Name"			: { "mapFrom" : "stop_name", "type":"O4.String", "index":false},
+                        "Stop Description"	: { "mapFrom" : "stop_desc", "type":"O4.String", "index":false },
+						"Location"			: { 
+							"lat"		: { "mapFrom" : "lat", "type" : "O4.Float" , "index" : false },
+							"lon"		: { "mapFrom" : "lon", "type" : "O4.Float" , "index" : false },
+							"mapFrom"	: "location",
+							"type"		: "O4.GeoPoint"
+						},
+                        "Zone ID"			: { "mapFrom" : "zone_id", "type":"O4.String", "index":false},
+                        "Stop URL"			: { "mapFrom" : "stop_url", "type":"O4.String", "index":false},
+                        "Location Type"		: { "mapFrom" : "location_type", "type":"O4.String", "index":false},
+                        "Parent Station"	: { "mapFrom" : "parent_station", "type":"O4.String", "index":false}
+            }
+        }
+    },
+    "root":{}
+
+}

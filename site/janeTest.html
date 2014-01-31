@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Jane Test Console</title>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+   	<script src="/O4Common/O4Common.debug.js"></script>
+    <script src="js-lib/jane/jane-client.js"></script>
+    <script src="js/app_test.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body onload="runApp ();">
+    <table>
+        <tr><td colspan="2"><div style="text-align:center" id="divSelectedName">Click to Select</div></td></tr>
+        <tr><th>Name</th><td><input type="text" id="queryName"></td></tr>
+        <tr><th>Select</th><td><input type="text" id="selectClause"></td></tr>
+        <tr><th>Where</th><td><input type="text" id="whereClause"></td></tr>
+        <tr><th>Sort</th><td><input type="text" id="sortClause"></td></tr>
+        <tr><td colspan="2">
+        <div style="text-align:center">
+            <button type="button" onmouseup="AddCopy ();">Add Copy</button>
+            <button type="button" onmouseup="Jane.reset ();">Reset</button>
+        </div>
+        </td></tr>
+    </table>
+</body>
+</html>

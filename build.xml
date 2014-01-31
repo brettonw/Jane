@@ -1,0 +1,37 @@
+<project name="jane" default="debug" basedir=".">
+  <property name="source-dir" value="src"/>
+  <property name="build-dir" value="build"/>
+  <property name="site-dir" value="site/js-lib/jane"/>
+  <property name="build-tools-dir" value="tools"/>
+
+  <import file="${build-tools-dir}/common-build.xml"/>
+
+  <target name="js-concatenate" depends="init">
+    <concat destfile="${build-dir}/${concat-target}">
+      <!-- file order is important, at least for the first two files -->
+      <fileset dir="${source-dir}" includes="macros.h"/>
+      <fileset dir="${source-dir}" includes="EventSource.js"/>
+      <fileset dir="${source-dir}" includes="EventSubscriber.js"/>
+      <fileset dir="${source-dir}" includes="Jane.js"/>
+      <fileset dir="${source-dir}" includes="Utility.js"/>
+      <fileset dir="${source-dir}" includes="Schema.js"/>
+      <fileset dir="${source-dir}" includes="Filter.js"/>
+      <fileset dir="${source-dir}" includes="FilterOperator.js"/>
+      <fileset dir="${source-dir}" includes="FilterIn.js"/>
+      <fileset dir="${source-dir}" includes="FilterAnd.js"/>
+      <fileset dir="${source-dir}" includes="FilterOr.js"/>
+      <fileset dir="${source-dir}" includes="MetaData.js"/>
+      <fileset dir="${source-dir}" includes="Index.js"/>
+      <fileset dir="${source-dir}" includes="Bag.js"/>
+      <fileset dir="${source-dir}" includes="Transform.js"/>
+      <fileset dir="${source-dir}" includes="TransformAssemble.js"/>
+      <fileset dir="${source-dir}" includes="TransformExtract.js"/>
+      <fileset dir="${source-dir}" includes="TransformFlatten.js"/>
+      <fileset dir="${source-dir}" includes="TransformCompound.js"/>
+      <fileset dir="${source-dir}" includes="DataObject.js"/>
+      <fileset dir="${source-dir}" includes="DataObjectReference.js"/>
+      <fileset dir="${source-dir}" includes="DataObjectJoin.js"/>
+      <fileset dir="${source-dir}" includes="DataObjectEspace.js"/>
+    </concat>
+  </target>
+</project>

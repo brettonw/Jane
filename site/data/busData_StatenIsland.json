@@ -1,0 +1,3225 @@
+{
+  "data" : [ {
+    "childOf" : 201038,
+    "id" : 203700
+  }, {
+    "childOf" : 403311,
+    "id" : 405277
+  }, {
+    "childOf" : 201124,
+    "id" : 201136
+  }, {
+    "childOf" : 203075,
+    "id" : 200466
+  }, {
+    "childOf" : 400070,
+    "id" : 450402
+  }, {
+    "childOf" : 203075,
+    "id" : 200467
+  }, {
+    "childOf" : 201630,
+    "id" : 201033
+  }, {
+    "childOf" : 201124,
+    "id" : 201126
+  }, {
+    "childOf" : 201124,
+    "id" : 201128
+  }, {
+    "childOf" : 203341,
+    "id" : 203342
+  }, {
+    "childOf" : 403132,
+    "id" : 403133
+  }, {
+    "childOf" : 203344,
+    "id" : 400070
+  }, {
+    "childOf" : 203344,
+    "id" : 400071
+  }, {
+    "childOf" : 203348,
+    "id" : 203695
+  }, {
+    "childOf" : 200476,
+    "id" : 200479
+  }, {
+    "childOf" : 201118,
+    "id" : 203696
+  }, {
+    "childOf" : 400933,
+    "id" : 403132
+  }, {
+    "childOf" : 400726,
+    "id" : 400732
+  }, {
+    "childOf" : 200380,
+    "id" : 200382
+  }, {
+    "childOf" : 200237,
+    "id" : 201118
+  }, {
+    "childOf" : 405277,
+    "id" : 405276
+  }, {
+    "childOf" : 201112,
+    "id" : 200237
+  }, {
+    "childOf" : 201117,
+    "id" : 203696
+  }, {
+    "childOf" : 200466,
+    "id" : 200467
+  }, {
+    "childOf" : 201052,
+    "id" : 403133
+  }, {
+    "childOf" : 203696,
+    "id" : 201126
+  }, {
+    "childOf" : 400726,
+    "id" : 903034
+  }, {
+    "childOf" : 903035,
+    "id" : 400726
+  }, {
+    "childOf" : 403971,
+    "id" : 903117
+  }, {
+    "childOf" : 200466,
+    "id" : 200470
+  }, {
+    "childOf" : 201133,
+    "id" : 201139
+  }, {
+    "childOf" : 403132,
+    "id" : 903036
+  }, {
+    "childOf" : 903037,
+    "id" : 403132
+  }, {
+    "childOf" : 203798,
+    "id" : 400070
+  }, {
+    "childOf" : 250054,
+    "id" : 201630
+  }, {
+    "childOf" : 200479,
+    "id" : 201003
+  }, {
+    "childOf" : 200479,
+    "id" : 201005
+  }, {
+    "childOf" : 201132,
+    "id" : 201133
+  }, {
+    "childOf" : 201033,
+    "id" : 201034
+  }, {
+    "childOf" : 903117,
+    "id" : 203345
+  }, {
+    "childOf" : 404189,
+    "id" : 404190
+  }, {
+    "childOf" : 201141,
+    "id" : 200371
+  }, {
+    "childOf" : 404890,
+    "id" : 400911
+  }, {
+    "childOf" : 201016,
+    "id" : 250054
+  }, {
+    "childOf" : 200470,
+    "id" : 203700
+  }, {
+    "childOf" : 404132,
+    "id" : 404992
+  }, {
+    "childOf" : 200479,
+    "id" : 203399
+  }, {
+    "childOf" : 404214,
+    "id" : 203345
+  }, {
+    "childOf" : 201126,
+    "id" : 201132
+  }, {
+    "childOf" : 201126,
+    "id" : 201137
+  }, {
+    "childOf" : 201118,
+    "id" : 201124
+  }, {
+    "childOf" : 200381,
+    "id" : 200382
+  }, {
+    "childOf" : 203342,
+    "id" : 201052
+  }, {
+    "childOf" : 404890,
+    "id" : 903035
+  }, {
+    "childOf" : 201128,
+    "id" : 201133
+  }, {
+    "childOf" : 201052,
+    "id" : 203344
+  }, {
+    "childOf" : 201005,
+    "id" : 201034
+  }, {
+    "childOf" : 201137,
+    "id" : 201141
+  }, {
+    "childOf" : 200470,
+    "id" : 201012
+  }, {
+    "childOf" : 400163,
+    "id" : 404201
+  }, {
+    "childOf" : 201011,
+    "id" : 201012
+  }, {
+    "childOf" : 400732,
+    "id" : 403132
+  }, {
+    "childOf" : 201011,
+    "id" : 201016
+  }, {
+    "childOf" : 201036,
+    "id" : 201038
+  }, {
+    "childOf" : 200476,
+    "id" : 201003
+  }, {
+    "childOf" : 201012,
+    "id" : 250054
+  }, {
+    "childOf" : 201133,
+    "id" : 201136
+  }, {
+    "childOf" : 404184,
+    "id" : 403311
+  }, {
+    "childOf" : 201033,
+    "id" : 400933
+  }, {
+    "childOf" : 203728,
+    "id" : 200700
+  }, {
+    "childOf" : 200467,
+    "id" : 203361
+  }, {
+    "childOf" : 203361,
+    "id" : 201003
+  }, {
+    "childOf" : 201136,
+    "id" : 201139
+  }, {
+    "childOf" : 200470,
+    "id" : 201003
+  }, {
+    "childOf" : 201136,
+    "id" : 201141
+  }, {
+    "childOf" : 903117,
+    "id" : 404189
+  }, {
+    "childOf" : 203694,
+    "id" : 203695
+  }, {
+    "childOf" : 203701,
+    "id" : 203798
+  }, {
+    "childOf" : 200377,
+    "id" : 200381
+  }, {
+    "childOf" : 200377,
+    "id" : 200382
+  }, {
+    "childOf" : 200474,
+    "id" : 200476
+  }, {
+    "childOf" : 201033,
+    "id" : 400911
+  }, {
+    "childOf" : 200384,
+    "id" : 905046
+  }, {
+    "childOf" : 201108,
+    "id" : 201110
+  }, {
+    "childOf" : 201108,
+    "id" : 201112
+  }, {
+    "childOf" : 400071,
+    "id" : 450402
+  }, {
+    "childOf" : 201108,
+    "id" : 201117
+  }, {
+    "childOf" : 201034,
+    "id" : 203701
+  }, {
+    "childOf" : 405276,
+    "id" : 903117
+  }, {
+    "childOf" : 200462,
+    "id" : 203075
+  }, {
+    "childOf" : 200700,
+    "id" : 201106
+  }, {
+    "childOf" : 203798,
+    "id" : 404992
+  }, {
+    "childOf" : 201020,
+    "id" : 400070
+  }, {
+    "childOf" : 201012,
+    "id" : 201020
+  }, {
+    "childOf" : 201008,
+    "id" : 201011
+  }, {
+    "childOf" : 201020,
+    "id" : 201028
+  }, {
+    "childOf" : 203701,
+    "id" : 201052
+  }, {
+    "childOf" : 203700,
+    "id" : 201052
+  }, {
+    "childOf" : 404993,
+    "id" : 404184
+  }, {
+    "childOf" : 203347,
+    "id" : 203348
+  }, {
+    "childOf" : 201113,
+    "id" : 201117
+  }, {
+    "childOf" : 201003,
+    "id" : 201033
+  }, {
+    "childOf" : 200371,
+    "id" : 200375
+  }, {
+    "childOf" : 903035,
+    "id" : 400723
+  }, {
+    "childOf" : 400723,
+    "id" : 903034
+  }, {
+    "childOf" : 201034,
+    "id" : 903037
+  }, {
+    "childOf" : 201034,
+    "id" : 903035
+  }, {
+    "childOf" : 201011,
+    "id" : 250054
+  }, {
+    "childOf" : 404910,
+    "id" : 404993
+  }, {
+    "childOf" : 200367,
+    "id" : 200375
+  }, {
+    "childOf" : 201005,
+    "id" : 903035
+  }, {
+    "childOf" : 201033,
+    "id" : 203344
+  }, {
+    "childOf" : 203700,
+    "id" : 203701
+  }, {
+    "childOf" : 201020,
+    "id" : 404992
+  }, {
+    "childOf" : 400911,
+    "id" : 404132
+  }, {
+    "childOf" : 250054,
+    "id" : 201033
+  }, {
+    "childOf" : 404201,
+    "id" : 403971
+  }, {
+    "childOf" : 250054,
+    "id" : 201038
+  }, {
+    "childOf" : 203695,
+    "id" : 201108
+  }, {
+    "childOf" : 200467,
+    "id" : 201011
+  }, {
+    "childOf" : 201052,
+    "id" : 203798
+  }, {
+    "childOf" : 201003,
+    "id" : 201011
+  }, {
+    "childOf" : 201117,
+    "id" : 201118
+  }, {
+    "childOf" : 202097,
+    "id" : 200462
+  }, {
+    "childOf" : 404132,
+    "id" : 903034
+  }, {
+    "childOf" : 201003,
+    "id" : 201008
+  }, {
+    "childOf" : 404132,
+    "id" : 903036
+  }, {
+    "childOf" : 903035,
+    "id" : 404132
+  }, {
+    "childOf" : 201005,
+    "id" : 201011
+  }, {
+    "childOf" : 201003,
+    "id" : 201005
+  }, {
+    "childOf" : 201005,
+    "id" : 201012
+  }, {
+    "childOf" : 200382,
+    "id" : 905046
+  }, {
+    "childOf" : 201110,
+    "id" : 201113
+  }, {
+    "childOf" : 203701,
+    "id" : 203341
+  }, {
+    "childOf" : 203696,
+    "id" : 201124
+  }, {
+    "childOf" : 200382,
+    "id" : 200384
+  }, {
+    "childOf" : 201003,
+    "id" : 400911
+  }, {
+    "childOf" : 201005,
+    "id" : 201020
+  }, {
+    "childOf" : 203399,
+    "id" : 203361
+  }, {
+    "childOf" : 200467,
+    "id" : 201038
+  }, {
+    "childOf" : 201020,
+    "id" : 201034
+  }, {
+    "childOf" : 203695,
+    "id" : 201106
+  }, {
+    "childOf" : 200381,
+    "id" : 905046
+  }, {
+    "childOf" : 400732,
+    "id" : 903037
+  }, {
+    "childOf" : 201110,
+    "id" : 201118
+  }, {
+    "childOf" : 201020,
+    "id" : 203700
+  }, {
+    "childOf" : 404992,
+    "id" : 903036
+  }, {
+    "childOf" : 903035,
+    "id" : 404992
+  }, {
+    "childOf" : 400071,
+    "id" : 404890
+  }, {
+    "childOf" : 903034,
+    "id" : 400732
+  }, {
+    "childOf" : 203694,
+    "id" : 203728
+  }, {
+    "childOf" : 201141,
+    "id" : 200367
+  }, {
+    "childOf" : 203694,
+    "id" : 203347
+  }, {
+    "childOf" : 201034,
+    "id" : 201036
+  }, {
+    "childOf" : 405276,
+    "id" : 400163
+  }, {
+    "childOf" : 200476,
+    "id" : 203361
+  }, {
+    "childOf" : 903034,
+    "id" : 903037
+  }, {
+    "childOf" : 404993,
+    "id" : 405276
+  }, {
+    "childOf" : 400911,
+    "id" : 903035
+  }, {
+    "childOf" : 201052,
+    "id" : 400933
+  }, {
+    "childOf" : 201033,
+    "id" : 203700
+  }, {
+    "childOf" : 404132,
+    "id" : 400726
+  }, {
+    "childOf" : 203798,
+    "id" : 903037
+  }, {
+    "childOf" : 201028,
+    "id" : 201034
+  }, {
+    "childOf" : 201106,
+    "id" : 201108
+  }, {
+    "childOf" : 400070,
+    "id" : 400071
+  }, {
+    "childOf" : 200700,
+    "id" : 203695
+  }, {
+    "childOf" : 201141,
+    "id" : 200380
+  }, {
+    "childOf" : 450402,
+    "id" : 400911
+  }, {
+    "childOf" : 250054,
+    "id" : 203344
+  }, {
+    "childOf" : 403133,
+    "id" : 404992
+  }, {
+    "childOf" : 201106,
+    "id" : 201110
+  }, {
+    "childOf" : 201139,
+    "id" : 200377
+  }, {
+    "childOf" : 450402,
+    "id" : 404890
+  }, {
+    "childOf" : 404189,
+    "id" : 203694
+  }, {
+    "childOf" : 203700,
+    "id" : 203342
+  }, {
+    "childOf" : 250054,
+    "id" : 903036
+  }, {
+    "childOf" : 200470,
+    "id" : 200472
+  }, {
+    "childOf" : 400163,
+    "id" : 404189
+  }, {
+    "childOf" : 404184,
+    "id" : 400163
+  }, {
+    "childOf" : 203345,
+    "id" : 203694
+  }, {
+    "childOf" : 203345,
+    "id" : 200700
+  }, {
+    "childOf" : 203798,
+    "id" : 203344
+  }, {
+    "childOf" : 404190,
+    "id" : 404214
+  }, {
+    "childOf" : 201014,
+    "id" : 201016
+  }, {
+    "childOf" : 200467,
+    "id" : 200470
+  }, {
+    "childOf" : 200472,
+    "id" : 200474
+  }, {
+    "childOf" : 200375,
+    "id" : 200377
+  }, {
+    "childOf" : 201139,
+    "id" : 201141
+  }, {
+    "childOf" : 403132,
+    "id" : 404992
+  }, {
+    "childOf" : 201034,
+    "id" : 400070
+  }, {
+    "childOf" : 250054,
+    "id" : 201020
+  }, {
+    "childOf" : 903035,
+    "id" : 403133
+  }, {
+    "childOf" : 403133,
+    "id" : 903036
+  }, {
+    "childOf" : 903037,
+    "id" : 403133
+  }, {
+    "childOf" : 200375,
+    "id" : 200381
+  }, {
+    "childOf" : 903034,
+    "id" : 400933
+  }, {
+    "childOf" : 201012,
+    "id" : 201014
+  }, {
+    "childOf" : 201003,
+    "id" : 250054
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.557308,
+      "lon" : -74.168968
+    },
+    "name" : "RICHMOND AV - BARLOW AV",
+    "id" : 200384,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.596222,
+      "lon" : -74.085579
+    },
+    "name" : "HYLAN BL - QUINTARD ST",
+    "id" : 203700,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.598499,
+      "lon" : -74.080826
+    },
+    "name" : "HYLAN BL - MALLORY AV",
+    "id" : 203701,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.570171,
+      "lon" : -74.110237
+    },
+    "name" : "HYLAN BL - CODDINGTON AV",
+    "id" : 203696,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.595558,
+      "lon" : -74.086166
+    },
+    "name" : "HYLAN BL - OLD TOWN RD",
+    "id" : 203695,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.606709,
+      "lon" : -74.075615
+    },
+    "name" : "NARROWS RD N - ST JOHNS AV",
+    "id" : 203694,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.727024,
+      "lon" : -74.003349
+    },
+    "name" : "AV OF THE AMERICAS - PRINCE ST",
+    "id" : 404132,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.707119,
+      "lon" : -74.012306
+    },
+    "name" : "BROADWAY - RECTOR ST",
+    "id" : 404189,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.705261,
+      "lon" : -74.013969
+    },
+    "name" : "BROADWAY - MORRIS ST",
+    "id" : 404190,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.729679,
+      "lon" : -73.993279
+    },
+    "name" : "BROADWAY - WAVERLY PL",
+    "id" : 404184,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.720142,
+      "lon" : -74.003754
+    },
+    "name" : "CHURCH AV - LIPSENARD ST",
+    "id" : 903035,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.744694,
+      "lon" : -73.991409
+    },
+    "name" : "AV OF THE AMERICAS - W 23 ST",
+    "id" : 903034,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.754307,
+      "lon" : -73.984398
+    },
+    "name" : "AV OF THE AMERICAS - W 41 ST",
+    "id" : 903037,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.766006,
+      "lon" : -73.976807
+    },
+    "name" : "CENTRAL PARK S - 6 AV",
+    "id" : 903036,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.601219,
+      "lon" : -74.076584
+    },
+    "name" : "STEUBEN ST - W FINGERBOARD R",
+    "id" : 203728,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.704769,
+      "lon" : -74.014458
+    },
+    "name" : "BATTERY PL - GREENWICH ST",
+    "id" : 404214,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.539684,
+      "lon" : -74.148506
+    },
+    "name" : "HYLAN BL - OSBORNE AV",
+    "id" : 200367,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.541832,
+      "lon" : -74.16272
+    },
+    "name" : "RICHMOND AV - OAKDALE ST",
+    "id" : 200375,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.537521,
+      "lon" : -74.150391
+    },
+    "name" : "HYLAN BL - ARMSTRONG AV",
+    "id" : 200368,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.534569,
+      "lon" : -74.154335
+    },
+    "name" : "RICHMOND AV - HYLAN BL",
+    "id" : 200371,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.71233,
+      "lon" : -74.007957
+    },
+    "name" : "BROADWAY - PARK PL",
+    "id" : 404201,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.550877,
+      "lon" : -74.167542
+    },
+    "name" : "RICHMOND AV - KATAN AV",
+    "id" : 200381,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.549507,
+      "lon" : -74.167229
+    },
+    "name" : "RICHMOND AV - MEMPHIS AV",
+    "id" : 200380,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.552799,
+      "lon" : -74.167961
+    },
+    "name" : "RICHMOND AV - GENESEE AV",
+    "id" : 200382,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.544189,
+      "lon" : -74.165039
+    },
+    "name" : "RICHMOND AV - ELTINGVILLE BL",
+    "id" : 200377,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.709236,
+      "lon" : -74.010567
+    },
+    "name" : "BROADWAY - CORTLANDT ST",
+    "id" : 403971,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.576778,
+      "lon" : -74.103264
+    },
+    "name" : "HYLAN BL - LINCOLN AV",
+    "id" : 201630,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.746536,
+      "lon" : -73.990013
+    },
+    "name" : "AV OF THE AMERICAS - W 29 ST",
+    "id" : 400732,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.7644,
+      "lon" : -73.976997
+    },
+    "name" : "AV OF THE AMERICAS - W 57 ST",
+    "id" : 404992,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.734566,
+      "lon" : -73.990898
+    },
+    "name" : "BROADWAY - E 13 ST",
+    "id" : 404993,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.733006,
+      "lon" : -73.99984
+    },
+    "name" : "AV OF THE AMERICAS - WAVERLY PL",
+    "id" : 400723,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.737453,
+      "lon" : -73.996674
+    },
+    "name" : "AV OF THE AMERICAS - W 14 ST",
+    "id" : 400726,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.57774,
+      "lon" : -74.102676
+    },
+    "name" : "HYLAN BL - MIDLAND AV",
+    "id" : 200237,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.560837,
+      "lon" : -74.17112
+    },
+    "name" : "ELTINGVILLE - TRANSIT CENTER",
+    "id" : 905046,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.708958,
+      "lon" : -74.010872
+    },
+    "name" : "BROADWAY - CEDAR ST",
+    "id" : 903117,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.759773,
+      "lon" : -73.980385
+    },
+    "name" : "AV OF THE AMERICAS - W 50 ST",
+    "id" : 403132,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.761028,
+      "lon" : -73.979469
+    },
+    "name" : "AV OF THE AMERICAS - W 52 ST",
+    "id" : 403133,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.537571,
+      "lon" : -74.149986
+    },
+    "name" : "HYLAN BL - ARMSTRONG AV",
+    "id" : 203399,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.598732,
+      "lon" : -74.080963
+    },
+    "name" : "HYLAN BL - CLOVE RD",
+    "id" : 200700,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.725124,
+      "lon" : -73.997139
+    },
+    "name" : "BROADWAY - W HOUSTON ST",
+    "id" : 403311,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.53511,
+      "lon" : -74.155663
+    },
+    "name" : "RICHMOND AV - KING ST",
+    "id" : 200476,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.539875,
+      "lon" : -74.147835
+    },
+    "name" : "HYLAN BL - GOODALL ST",
+    "id" : 203361,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.535599,
+      "lon" : -74.152275
+    },
+    "name" : "HYLAN BL - WINCHESTER AV",
+    "id" : 200479,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.541199,
+      "lon" : -74.162369
+    },
+    "name" : "RICHMOND AV - OAKDALE ST",
+    "id" : 200472,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.538029,
+      "lon" : -74.159386
+    },
+    "name" : "RICHMOND AV - KOCH BL",
+    "id" : 200474,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.544067,
+      "lon" : -74.165199
+    },
+    "name" : "RICHMOND AV - ELTINGVILLE BL",
+    "id" : 200470,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.550243,
+      "lon" : -74.167603
+    },
+    "name" : "RICHMOND AV - KATAN AV",
+    "id" : 200466,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.548862,
+      "lon" : -74.167297
+    },
+    "name" : "RICHMOND AV - MEMPHIS AV",
+    "id" : 200467,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.556683,
+      "lon" : -74.169037
+    },
+    "name" : "RICHMOND AV - BARLOW AV",
+    "id" : 200462,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.721703,
+      "lon" : -74.000015
+    },
+    "name" : "BROADWAY - BROOME ST",
+    "id" : 405277,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.718109,
+      "lon" : -74.003067
+    },
+    "name" : "BROADWAY - WHITE ST",
+    "id" : 405276,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.600792,
+      "lon" : -74.076393
+    },
+    "name" : "STEUBEN ST - W FINGERBOARD RD",
+    "id" : 203342,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.598766,
+      "lon" : -74.078003
+    },
+    "name" : "STEUBEN ST - HYLAN BL",
+    "id" : 203341,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.603775,
+      "lon" : -74.077713
+    },
+    "name" : "STEUBEN ST - OLGA PL",
+    "id" : 203347,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.604595,
+      "lon" : -74.069366
+    },
+    "name" : "NARROWS RD N - FINGERBOARD RD",
+    "id" : 203345,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.603428,
+      "lon" : -74.068993
+    },
+    "name" : "NARROWS RD S - FINGERBOARD RD",
+    "id" : 203344,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.598938,
+      "lon" : -74.078201
+    },
+    "name" : "STEUBEN ST - NORMALEE RD",
+    "id" : 203348,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.542587,
+      "lon" : -74.145569
+    },
+    "name" : "HYLAN BL - NELSON AV",
+    "id" : 201003,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.548023,
+      "lon" : -74.139061
+    },
+    "name" : "HYLAN BL - FIELDWAY AV",
+    "id" : 201007,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.545567,
+      "lon" : -74.142349
+    },
+    "name" : "HYLAN BL - HILLSIDE TER",
+    "id" : 201005,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.553501,
+      "lon" : -74.131546
+    },
+    "name" : "HYLAN BL - JUSTIN AV",
+    "id" : 201011,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.549747,
+      "lon" : -74.136902
+    },
+    "name" : "HYLAN BL - KEEGANS LA",
+    "id" : 201008,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.559101,
+      "lon" : -74.125153
+    },
+    "name" : "HYLAN BL - MONTREAL AV",
+    "id" : 201014,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.556808,
+      "lon" : -74.127632
+    },
+    "name" : "HYLAN BL - GREAT KILLS PARK",
+    "id" : 201012,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.560574,
+      "lon" : -74.119667
+    },
+    "name" : "HYLAN BL - GUYON AV",
+    "id" : 201016,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.570202,
+      "lon" : -74.109764
+    },
+    "name" : "HYLAN BL - NEW DORP LA",
+    "id" : 201022,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.56076,
+      "lon" : -74.171089
+    },
+    "name" : "ELTINGVILLE - TRANSIT CENTER",
+    "id" : 202097,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.566685,
+      "lon" : -74.113388
+    },
+    "name" : "HYLAN BL - EBBITTS ST",
+    "id" : 201020,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.578186,
+      "lon" : -74.101921
+    },
+    "name" : "HYLAN BL - MIDLAND AV",
+    "id" : 201028,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.581394,
+      "lon" : -74.098061
+    },
+    "name" : "HYLAN BL - JEFFERSON AV",
+    "id" : 201031,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.574722,
+      "lon" : -74.105309
+    },
+    "name" : "HYLAN BL - ELMTREE AV",
+    "id" : 201026,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.587826,
+      "lon" : -74.090775
+    },
+    "name" : "HYLAN BL - CROMWELL AV",
+    "id" : 201036,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.590824,
+      "lon" : -74.088127
+    },
+    "name" : "HYLAN BL - BURGHER AV",
+    "id" : 201038,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.583298,
+      "lon" : -74.095665
+    },
+    "name" : "HYLAN BL - SEAVER AV",
+    "id" : 201032,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.584068,
+      "lon" : -74.094688
+    },
+    "name" : "HYLAN BL - NAUGHTON AV",
+    "id" : 201033,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.585411,
+      "lon" : -74.092995
+    },
+    "name" : "HYLAN BL - BUEL AV",
+    "id" : 201034,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.565113,
+      "lon" : -74.114838
+    },
+    "name" : "HYLAN BL - CANNON BL",
+    "id" : 250054,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.605293,
+      "lon" : -74.076561
+    },
+    "name" : "HYLAN BL - NARROWS RD S",
+    "id" : 201052,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.58292,
+      "lon" : -74.096512
+    },
+    "name" : "HYLAN BL - SEAVER AV",
+    "id" : 201112,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.581093,
+      "lon" : -74.098808
+    },
+    "name" : "HYLAN BL - JEFFERSON AV",
+    "id" : 201113,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.57629,
+      "lon" : -74.104088
+    },
+    "name" : "HYLAN BL - LINCOLN AV",
+    "id" : 201117,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.574207,
+      "lon" : -74.106171
+    },
+    "name" : "HYLAN BL - BANCROFT AV",
+    "id" : 201118,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.590466,
+      "lon" : -74.088799
+    },
+    "name" : "HYLAN BL - BURGHER AV",
+    "id" : 201106,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.587444,
+      "lon" : -74.091461
+    },
+    "name" : "HYLAN BL - CROMWELL AV",
+    "id" : 201108,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.585079,
+      "lon" : -74.093788
+    },
+    "name" : "HYLAN BL - BUEL AV",
+    "id" : 201110,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.558758,
+      "lon" : -74.125885
+    },
+    "name" : "HYLAN BL - MONTREAL AV",
+    "id" : 201130,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.560211,
+      "lon" : -74.120438
+    },
+    "name" : "HYLAN BL - GUYON AV",
+    "id" : 201128,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.55349,
+      "lon" : -74.131996
+    },
+    "name" : "HYLAN BL - JUSTIN AV",
+    "id" : 201133,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.556396,
+      "lon" : -74.128471
+    },
+    "name" : "HYLAN BL - BUFFALO ST",
+    "id" : 201132,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.56374,
+      "lon" : -74.116768
+    },
+    "name" : "HYLAN BL - TYSENS LA",
+    "id" : 201126,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.56686,
+      "lon" : -74.113579
+    },
+    "name" : "HYLAN BL - LINDBERGH AV",
+    "id" : 201124,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.545288,
+      "lon" : -74.143082
+    },
+    "name" : "HYLAN BL - HILLSIDE TER",
+    "id" : 201139,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.549435,
+      "lon" : -74.137802
+    },
+    "name" : "HYLAN BL - KEEGANS LA",
+    "id" : 201136,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.547672,
+      "lon" : -74.139908
+    },
+    "name" : "HYLAN BL - FIELDWAY AV",
+    "id" : 201137,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.542229,
+      "lon" : -74.146248
+    },
+    "name" : "HYLAN BL - NELSON AV",
+    "id" : 201141,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.715832,
+      "lon" : -74.00502
+    },
+    "name" : "BROADWAY - THOMAS ST",
+    "id" : 400163,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.552063,
+      "lon" : -74.168007
+    },
+    "name" : "RICHMOND AV - AUGUSTA AV",
+    "id" : 203075,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.708008,
+      "lon" : -74.012711
+    },
+    "name" : "TRINITY PL - RECTOR ST",
+    "id" : 400070,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.710014,
+      "lon" : -74.01136
+    },
+    "name" : "CHURCH ST - LIBERTY ST",
+    "id" : 400071,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.711399,
+      "lon" : -74.010483
+    },
+    "name" : "CHURCH AV - FULTON ST",
+    "id" : 450402,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.741261,
+      "lon" : -73.98909
+    },
+    "name" : "E 23 ST - BROADWAY",
+    "id" : 404910,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.713108,
+      "lon" : -74.009239
+    },
+    "name" : "CHURCH ST - PARK ST",
+    "id" : 404890,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.749882,
+      "lon" : -73.987534
+    },
+    "name" : "AV OF THE AMERICAS - W 34 ST",
+    "id" : 400933,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.71637,
+      "lon" : -74.006676
+    },
+    "name" : "CHURCH ST - THOMAS ST",
+    "id" : 400911,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  }, {
+    "routes" : [ {
+      "id" : "X1",
+      "type" : 3,
+      "longName" : "Staten Island - Manhattan Express",
+      "desc" : "via Hylan Blvd / Richmond Av",
+      "bikesAllowed" : 0,
+      "shortName" : "X1",
+      "url" : "http://www.mta.info/nyct/bus/schedule/xpress/x001cur.pdf"
+    } ],
+    "location" : {
+      "lat" : 40.605015,
+      "lon" : -74.074005
+    },
+    "name" : "NARROWS RD S - GRASMERE DR",
+    "id" : 203798,
+    "wheelChairBoarding" : 0,
+    "childOf" : "",
+    "desc" : "",
+    "code" : "",
+    "zoneId" : "",
+    "locationType" : 0,
+    "parentStation" : "",
+    "direction" : "",
+    "url" : ""
+  } ]
+}
