@@ -1,2 +1,4 @@
 ### macOS template
 .DS_Store
+.idea
+*.iml
